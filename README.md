@@ -70,50 +70,41 @@ Blue is cord to Arduino Red is cord to keyboard Green is cord to mouse
 
 -   Click the BLE Icon
 -   Ensure ‘Wonderboom 2’ speaker is connected
-1.  Click BLE icon
-1.  Select Wonderboom2 if not already selected
 
-# ![](media/e28e5055d07042d9edf6f452af0127d6.jpeg)Configure Pi Audio Output
+# Configure Pi Audio Output
+![](media/e28e5055d07042d9edf6f452af0127d6.jpeg)
 
 -   Right Click the Speaker icon
 -   Select Audio Outputs
 -   Select ‘Wonderboom 2’ if not already selected
-1.  RIGHT Click speaker icon
-1.  Select Wonderboom2
 
 # Starting the Python IDE
+![Graphical user interface, website  Description automatically generated](media/71c3d3f29de7ebfde3bd6d44d229db2d.jpeg)
 
--   ![Graphical user interface, website  Description automatically generated](media/71c3d3f29de7ebfde3bd6d44d229db2d.jpeg)Select the Pi button in the upper left
-    -   Select ‘Programming’
-        -   Select ‘Thony Python IDE’
-
-# Playing the ‘newfootsounds.py’ Program
-
--   ![Graphical user interface, text, application, email  Description automatically generated](media/dd68d4d4c75141bc4cede7c0c8897fd9.jpeg)The ‘newfootsounds.py’ file should already be loaded
-    -   Press the green ‘Play’ button to start the script
+-   Select the Pi button in the upper left
+-   Select ‘Programming’
+-   Select ‘Thony Python IDE’
 
 # Playing the ‘newfootsounds.py’ Program
+![Graphical user interface, text, application, email  Description automatically generated](media/dd68d4d4c75141bc4cede7c0c8897fd9.jpeg)
 
--   ![Graphical user interface, text, application, email  Description automatically generated](media/0d91dc16f82c4c7365662d830e94fad4.png)The ‘newfootsounds.py’ file should already be loaded
-    -   Press the green ‘Play’ button to start the script
-        -   Once started readings from the pedal will come in
+-   The ‘newfootsounds.py’ file should already be loaded
+-   Press the green ‘Play’ button to start the script
+
+# Playing the ‘newfootsounds.py’ Program
+![Graphical user interface, text, application, email  Description automatically generated](media/0d91dc16f82c4c7365662d830e94fad4.png)
+
+-   The ‘newfootsounds.py’ file should already be loaded
+-   Press the green ‘Play’ button to start the script
+-   Once started readings from the pedal will come in
 
 # Testing the ‘newfootsounds.py’ Program
 
--   ![Graphical user interface, text, application, email  Description automatically generated](media/234409bbfafb2525e9ae9f1ed8c66a84.jpeg)The ‘newfootsounds.py’ file should already be loaded
-    -   Press the green ‘Play’ button to start the script
-        -   Once started readings from the pedal will come in
-        -   Test the connection by pressing the foot pedal
-        -   Check for sound from speaker
-        -   If too high turn down speaker
-        -   if too low turn up speaker
-
-# ‘newfootsounds.py’ code
-
--   ![](media/7a9dd8e8c16022a50477cef73fef0870.jpeg)The ‘newfootsounds.py’ file should already be loaded
-    -   Press the green ‘Play’ button to start the script
-        -   Once started readings from the pedal will come in
-        -   Test the connection by pressing the foot pedal
-        -   Check for sound from speaker
-        -   If too high turn down speaker
-        -   if too low turn up speaker
+![Graphical user interface, text, application, email  Description automatically generated](media/234409bbfafb2525e9ae9f1ed8c66a84.jpeg)
+-   The ‘newfootsounds.py’ file should already be loaded
+-   Press the green ‘Play’ button to start the script
+-   Once started readings from the pedal will come in
+-   Test the connection by pressing the foot pedal
+-   Check for sound from speaker
+-   If too high turn down speaker
+-   if too low turn up speaker
