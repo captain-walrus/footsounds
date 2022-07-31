@@ -60,12 +60,13 @@ Blue is cord to Arduino Red is cord to keyboard Green is cord to mouse
 
 # Turn on the Rasberry Pi
 
--  ![Graphical user interface, website  Description automatically generated](media/1c67c593c44b3bf34f104dc7fc6b1e2d.jpeg)
+![Graphical user interface, website  Description automatically generated](media/1c67c593c44b3bf34f104dc7fc6b1e2d.jpeg)
 -   Press the Power Button
 -   The Pi will boot up
 -   This is what the home screen looks like
 
-# ![](media/c831d1d5c569bea4d44d100a1bddb86b.jpeg)Connect the Bluetooth Speaker
+# Connect the Bluetooth Speaker
+![](media/c831d1d5c569bea4d44d100a1bddb86b.jpeg)
 
 -   Click the BLE Icon
 -   Ensure ‘Wonderboom 2’ speaker is connected
