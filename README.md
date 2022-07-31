@@ -60,7 +60,8 @@ Blue is cord to Arduino Red is cord to keyboard Green is cord to mouse
 
 # Turn on the Rasberry Pi
 
--   ![Graphical user interface, website  Description automatically generated](media/1c67c593c44b3bf34f104dc7fc6b1e2d.jpeg)Press the Power Button
+-  ![Graphical user interface, website  Description automatically generated](media/1c67c593c44b3bf34f104dc7fc6b1e2d.jpeg)
+-   Press the Power Button
 -   The Pi will boot up
 -   This is what the home screen looks like
 
