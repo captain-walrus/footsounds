@@ -7,7 +7,8 @@ import pydub
 from pydub import AudioSegment 
 from pydub.playback import play 
 
-walksound = r"/home/pi/Documents/sounds/walktalk_01_16 jhmnbit.wav" #r"/home/pi/Desktop/regtest2.wav"
+walksound = r"/home/pi/Documents/sounds/walktalk_01_16bit.wav"
+#r"/home/pi/Desktop/regtest2.wav"
 #r"/home/pi/Documents/sounds/walktalk.wav"
 #r"/home/pi/Desktop/footsounds.wav"
 runsound = r"/home/pi/Desktop/testrun1.wav"
