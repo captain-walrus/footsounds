@@ -1,106 +1,116 @@
-# footsounds
-code for the footsounds sculpture
-
-Homage to Long Walk
+# Homage to Long Walk
 
 Installation info Danielle Giudici Wallis
 
-# Parts:
+## Parts:
 
 -   Foot pedal
 -   Cardboard box tower
--   Bluetooth speaker
+-   Bluetooth speaker, cord and power adaptor/charging brick
 -   Arduino
--   Raspberry pi and monitor
--   Keyboard
+-   Raspberry pi with monitor power cord
+-   Keyboard and usb cord
 -   Screen
 -   Mouse
 -   Power cables
 -   Breadboard
 -   Jumper wires
+-   mat
 
 Pedal: Top and bottom of wooden foot pedal are pressure fit only. To assemble, align cover and cord (there is a small hole at the top for the cord); press firmly. To disassemble, lift wooden foot pedal and press firmly on wooden bottom.
 
-![](media/a16a7c2753d4bb3b9818c5f19fc764ce.jpeg)![](media/9e874c0f38db6f5c142ee892c9ccc53c.jpeg)
+![](media/930ae93b42e4ff6dfebda2787f808426.jpeg)![](media/5e81359f33621a8bcfec5fabef1ea703.jpeg)
 
-# Arduino and bread board connections
+## Arduino and bread board connections
 
-![](media/97d7a7b4b75ffe46032afd7142476048.jpeg)
+![](media/0e11f66bb403778bc955fcfaac0951b1.jpeg)
 
-![](media/24a9987f6dc1457b19797dbebd03e6b0.jpeg)Bread Board diagram
+![](media/a78871bb03d8279f9dfdfc51a1a97f04.jpeg)Bread Board diagram
 
 Wires from Pedal to Bread Board: Brown to i6; Blue to i7; Red to f6; White to f7; Black to f10; resistor h7-h10
 
 Arduino Diagram
 
-![](media/e9511b947c517291e9516cc5023b7918.jpeg)
+![](media/74e5614e5e10ee411a07eb602873b589.jpeg)
 
 Red into 5V; Black to GND; White to A0; USB to USB of Raspberry Pi monitor
 
-# ![](media/585edfa7201f65718c6f6cdcab8aad9d.jpeg)Rasberry Pi connections:
+## ![](media/630f2d592a96b0334bb0eaa5841539f8.jpeg)Rasberry Pi connections:
 
 Top: Power supply
 
-# ![](media/88fd71bc04891e7f71499b07ab8820ef.jpeg)Raspberry Pi connections, cont’d.
+## ![](media/3ff5eb32cf95c2ab045cb3a4d57cf24e.jpeg)Raspberry Pi connections, cont’d.
 
 Right Side:
 
-Blue is cord to Arduino Red is cord to keyboard Green is cord to mouse
+Blue is cord to Arduino Red is cord to keyboard
 
--   The stack of boxes fits over the bottom box which houses all of the electronics
--   The top box houses the wireless speaker
+Green is cord to mouse
 
-# Power Up / Turn Up the Bluetooth Speaker
+![](media/c0a76e7f3bc4d86d3d5d0ecdc8b9f4c0.jpeg)
+
+-   The pedal sits centered upon the dirt/pine needle mat
+-   The bottom box houses all of the electronics; gently nest them inside
+-   The stack of boxes fit over the bottom box
+-   The top box houses the wireless speaker.
+-   position the pedal in front of and slightly to the right of the stack of boxes
+
+## Power Up / Turn Up the Bluetooth Speaker
 
 -   Open the top box -- connect the cable to the speaker
--   Turn the speaker on
--   Turn the volume up … it will start beeping when it is all the way up
+-   Turn the speaker on (line shaped button)
+-   Turn the volume up (+ button)… it will start beeping when it is all the way up
 
-![A picture containing indoor  Description automatically generated](media/71de6cdeb968de97d0231bfe9fa36e2e.jpeg)![A picture containing indoor, gear  Description automatically generated](media/aa29a1a28e61b245f3b864a884d41e3b.jpeg)![A picture containing metalware, gear  Description automatically generated](media/ea5c26ff772d23cc99255a2a7f722ce0.jpeg)![A picture containing person, indoor, hand  Description automatically generated](media/37e07c41c1e8dd8bd29912991ec4af1c.jpeg)
+![A picture containing indoor Description automatically generated](media/cd033ab76986b529b40826126275f0ac.jpeg)![A picture containing indoor, gear Description automatically generated](media/44fb1964b04b38be6f4286c53ada27b8.jpeg)![A picture containing metalware, gear Description automatically generated](media/0ca3ecb7465315962ed656d7ab2aa141.png)![A picture containing person, indoor, hand Description automatically generated](media/f86bbadde17d954637c12000e087e967.jpeg)
 
-# Turn on the Rasberry Pi
+## Turn on the Rasberry Pi
 
-![Graphical user interface, website  Description automatically generated](media/1c67c593c44b3bf34f104dc7fc6b1e2d.jpeg)
--   Press the Power Button
+-   ![Graphical user interface, website Description automatically generated](media/8b8c1a2ae221b4bef02d617fbd67f5eb.jpeg)Press the Power Button (on the cord)
 -   The Pi will boot up
 -   This is what the home screen looks like
 
-# Connect the Bluetooth Speaker
-![](media/c831d1d5c569bea4d44d100a1bddb86b.jpeg)
+## ![](media/449e52fa6d25730f80b52edaf1569443.jpeg)Connect the Bluetooth Speaker
 
--   Click the BLE Icon
+-   Click the BLE Icon using the mouse
 -   Ensure ‘Wonderboom 2’ speaker is connected
+1.  Click BLE icon
+2.  Select Wonderboom2 if not already selected
 
-# Configure Pi Audio Output
-![](media/e28e5055d07042d9edf6f452af0127d6.jpeg)
+## ![](media/a4dd12cfb0ed4c4286051766d27cfd4d.jpeg)Configure Pi Audio Output
 
 -   Right Click the Speaker icon
 -   Select Audio Outputs
 -   Select ‘Wonderboom 2’ if not already selected
+1.  RIGHT Click speaker icon
+2.  Select Wonderboom2
 
-# Starting the Python IDE
-![Graphical user interface, website  Description automatically generated](media/71c3d3f29de7ebfde3bd6d44d229db2d.jpeg)
+## Starting the Python IDE
 
--   Select the Pi button in the upper left
+![Graphical user interface, website Description automatically generated](media/8a2cb73fc082581284c921036855702b.jpeg)
+
+-   Select the Raspberry Pi button in the upper left
 -   Select ‘Programming’
 -   Select ‘Thony Python IDE’
 
-# Playing the ‘newfootsounds.py’ Program
-![Graphical user interface, text, application, email  Description automatically generated](media/dd68d4d4c75141bc4cede7c0c8897fd9.jpeg)
+## Playing the ‘newfootsounds.py’ Program
+
+![Graphical user interface, text, application, email Description automatically generated](media/e26541c10b415a59b6e9247687eaa095.jpeg)
 
 -   The ‘newfootsounds.py’ file should already be loaded
 -   Press the green ‘Play’ button to start the script
 
-# Playing the ‘newfootsounds.py’ Program
-![Graphical user interface, text, application, email  Description automatically generated](media/0d91dc16f82c4c7365662d830e94fad4.png)
+## Playing the ‘newfootsounds.py’ Program
+
+![Graphical user interface, text, application, email Description automatically generated](media/42bbb81ffd6f85d9edfb2f855c885cf1.png)
 
 -   The ‘newfootsounds.py’ file should already be loaded
 -   Press the green ‘Play’ button to start the script
 -   Once started readings from the pedal will come in
 
-# Testing the ‘newfootsounds.py’ Program
+## Testing the ‘newfootsounds.py’ Program
 
-![Graphical user interface, text, application, email  Description automatically generated](media/234409bbfafb2525e9ae9f1ed8c66a84.jpeg)
+![Graphical user interface, text, application, email Description automatically generated](media/2687c5fc5320548cb66d0a2f0cbfc65a.jpeg)
+
 -   The ‘newfootsounds.py’ file should already be loaded
 -   Press the green ‘Play’ button to start the script
 -   Once started readings from the pedal will come in
@@ -108,3 +118,19 @@ Blue is cord to Arduino Red is cord to keyboard Green is cord to mouse
 -   Check for sound from speaker
 -   If too high turn down speaker
 -   if too low turn up speaker
+
+## Dealing with ‘newfootsounds.py’ errors
+
+![Graphical user interface, text, application, email Description automatically generated](media/2687c5fc5320548cb66d0a2f0cbfc65a.jpeg)
+
+-   if script stops and there is a red error message in terminal window on the bottom of the Thonny interface, press red stop button then press play button again.
+-   if that doesn’t work, press stop, then close the Thonny program by clicking x in upper right corner of the application. Then restart Thonny and press play on program as described in previous slide.
+
+## ‘newfootsounds.py’ code (read only / for reference only) .
+
+![](media/b0941f5952eb2b7506f0cfd7cd94705d.jpeg)https://github.com/captain-walrus/footsounds
+
+## Power supply options:
+
+-   Both the Pi and speaker can be powered via the Anker battery pack, however it will need recharging every couple of days depending on usage.
+-   Alternately, the Pi and speaker can be directly plugged in via the supplied cords, however cords and outlet should be hidden beneath the shoebox tower.
