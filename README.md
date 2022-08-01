@@ -33,14 +33,16 @@ Arduino Diagram
 
 ![](media/74e5614e5e10ee411a07eb602873b589.jpeg)
 
-Red into 5V; Black to GND; White to A0; USB to USB of Raspberry Pi monitor
+-   Red into 5V
+-   Black to GND
+-   White to A0; USB to USB of Raspberry Pi monitor
 
-## ![](media/630f2d592a96b0334bb0eaa5841539f8.jpeg)Rasberry Pi connections:
-
+## Rasberry Pi connections:
+![](media/630f2d592a96b0334bb0eaa5841539f8.jpeg)
 Top: Power supply
 
-## ![](media/3ff5eb32cf95c2ab045cb3a4d57cf24e.jpeg)Raspberry Pi connections, cont’d.
-
+## Raspberry Pi connections, cont’d.
+![](media/3ff5eb32cf95c2ab045cb3a4d57cf24e.jpeg)
 Right Side:
 
 Blue is cord to Arduino Red is cord to keyboard
