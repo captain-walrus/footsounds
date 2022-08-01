@@ -36,7 +36,7 @@ Pedal: Top and bottom of wooden foot pedal are pressure fit only. To assemble, a
   -   Black to f10
   -   resistor h7-h10
 
-Arduino Diagram
+## Arduino Diagram
 
 ![](media/74e5614e5e10ee411a07eb602873b589.jpeg)
 
