@@ -25,9 +25,16 @@ Pedal: Top and bottom of wooden foot pedal are pressure fit only. To assemble, a
 
 ![](media/0e11f66bb403778bc955fcfaac0951b1.jpeg)
 
-![](media/a78871bb03d8279f9dfdfc51a1a97f04.jpeg)Bread Board diagram
+## Bread Board diagram
+![](media/a78871bb03d8279f9dfdfc51a1a97f04.jpeg)
 
-Wires from Pedal to Bread Board: Brown to i6; Blue to i7; Red to f6; White to f7; Black to f10; resistor h7-h10
+-   Wires from Pedal to Bread Board
+  -   Brown to i6
+  -   Blue to i7
+  -   Red to f6
+  -   White to f7
+  -   Black to f10
+  -   resistor h7-h10
 
 Arduino Diagram
 
@@ -39,15 +46,15 @@ Arduino Diagram
 
 ## Rasberry Pi connections:
 ![](media/630f2d592a96b0334bb0eaa5841539f8.jpeg)
+
 Top: Power supply
 
 ## Raspberry Pi connections, cont’d.
 ![](media/3ff5eb32cf95c2ab045cb3a4d57cf24e.jpeg)
+
 Right Side:
-
-Blue is cord to Arduino Red is cord to keyboard
-
-Green is cord to mouse
+-   Blue is cord to Arduino Red is cord to keyboard
+-   Green is cord to mouse
 
 ![](media/c0a76e7f3bc4d86d3d5d0ecdc8b9f4c0.jpeg)
 
@@ -71,14 +78,16 @@ Green is cord to mouse
 -   The Pi will boot up
 -   This is what the home screen looks like
 
-## ![](media/449e52fa6d25730f80b52edaf1569443.jpeg)Connect the Bluetooth Speaker
+## Connect the Bluetooth Speaker
+![](media/449e52fa6d25730f80b52edaf1569443.jpeg)
 
 -   Click the BLE Icon using the mouse
 -   Ensure ‘Wonderboom 2’ speaker is connected
 1.  Click BLE icon
 2.  Select Wonderboom2 if not already selected
 
-## ![](media/a4dd12cfb0ed4c4286051766d27cfd4d.jpeg)Configure Pi Audio Output
+## Configure Pi Audio Output
+![](media/a4dd12cfb0ed4c4286051766d27cfd4d.jpeg)
 
 -   Right Click the Speaker icon
 -   Select Audio Outputs
