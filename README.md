@@ -47,13 +47,13 @@ Pedal: Top and bottom of wooden foot pedal are pressure fit only. To assemble, a
 ## Rasberry Pi connections:
 ![](media/630f2d592a96b0334bb0eaa5841539f8.jpeg)
 
-Top: Power supply
+-   Power supply
 
 ## Raspberry Pi connections, cont’d.
 ![](media/3ff5eb32cf95c2ab045cb3a4d57cf24e.jpeg)
 
-Right Side:
--   Blue is cord to Arduino Red is cord to keyboard
+-   Blue is cord to Arduino 
+-   Red is cord to keyboard
 -   Green is cord to mouse
 
 ![](media/c0a76e7f3bc4d86d3d5d0ecdc8b9f4c0.jpeg)
