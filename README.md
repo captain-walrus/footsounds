@@ -78,14 +78,6 @@ Pedal: Top and bottom of wooden foot pedal are pressure fit only. To assemble, a
 -   The Pi will boot up
 -   This is what the home screen looks like
 
-## Connect the Bluetooth Speaker
-![](media/449e52fa6d25730f80b52edaf1569443.jpeg)
-
--   Click the BLE Icon using the mouse
--   Ensure ‘Wonderboom 2’ speaker is connected
-1.  Click BLE icon
-2.  Select Wonderboom2 if not already selected
-
 ## Configure Pi Audio Output
 ![](media/a4dd12cfb0ed4c4286051766d27cfd4d.jpeg)
 
@@ -94,7 +86,15 @@ Pedal: Top and bottom of wooden foot pedal are pressure fit only. To assemble, a
 -   Select ‘Wonderboom 2’ if not already selected
 1.  RIGHT Click speaker icon
 2.  Select Wonderboom2
+3.  If 'Wonderboom2' is not an option you'll need to go to Bluetooth Settings to connect to the speaker (see next step)
 
+## Connect the Bluetooth Speaker
+![](media/449e52fa6d25730f80b52edaf1569443.jpeg)
+
+-   Click the BLE Icon using the mouse
+-   Ensure ‘Wonderboom 2’ speaker is connected
+1.  Click BLE icon
+2.  Select Wonderboom2 if not already selected
 ## Starting the Python IDE
 
 ![Graphical user interface, website Description automatically generated](media/8a2cb73fc082581284c921036855702b.jpeg)
