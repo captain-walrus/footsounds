@@ -145,7 +145,7 @@ Pedal: Top and bottom of wooden foot pedal are pressure fit only. To assemble, a
 
 ## Backup .wav file for the footsounds 
 
-[![](/media/walktalk_01_16bit.wav)](https://github.com/captain-walrus/footsounds/blob/main/media/walktalk_01_16bit.wav)
+[https://github.com/captain-walrus/footsounds](https://github.com/captain-walrus/footsounds/blob/main/media/walktalk_01_16bit.wav)
 
 ## Power supply options:
 
