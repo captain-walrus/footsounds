@@ -139,11 +139,13 @@ Pedal: Top and bottom of wooden foot pedal are pressure fit only. To assemble, a
 
 ## ‘newfootsounds.py’ code (read only / for reference only) .
 
-![](media/b0941f5952eb2b7506f0cfd7cd94705d.jpeg)https://github.com/captain-walrus/footsounds
+![](media/b0941f5952eb2b7506f0cfd7cd94705d.jpeg)
+
+[https://github.com/captain-walrus/footsounds](https://github.com/captain-walrus/footsounds/blob/main/newfootsounds.py)
 
 ## Backup .wav file for the footsounds 
 
-![](/media/walktalk_01_16bit.wav))https://github.com/captain-walrus/footsounds
+![](/media/walktalk_01_16bit.wav)
 
 ## Power supply options:
 
