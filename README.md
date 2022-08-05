@@ -141,6 +141,10 @@ Pedal: Top and bottom of wooden foot pedal are pressure fit only. To assemble, a
 
 ![](media/b0941f5952eb2b7506f0cfd7cd94705d.jpeg)https://github.com/captain-walrus/footsounds
 
+## Backup .wav file for the footsounds 
+
+![](/media/walktalk_01_16bit.wav))https://github.com/captain-walrus/footsounds
+
 ## Power supply options:
 
 -   Both the Pi and speaker can be powered via the Anker battery pack, however it will need recharging every couple of days depending on usage.
