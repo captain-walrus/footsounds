@@ -11,7 +11,7 @@ walksound = r"/home/pi/Documents/sounds/walktalk_01_16bit.wav"
 #r"/home/pi/Desktop/regtest2.wav"
 #r"/home/pi/Documents/sounds/walktalk.wav"
 #r"/home/pi/Desktop/footsounds.wav"
-runsound = r"/home/pi/Desktop/testrun1.wav"
+runsound = walksound #r"/home/pi/Desktop/testrun1.wav"
 wav_file_walk = AudioSegment.from_file(file= walksound, format="wav") 
 wav_file_run = AudioSegment.from_file(file= runsound, format="wav") # data type fo the file
 max_volume = 1
@@ -136,7 +136,8 @@ if __name__ == '__main__':
 
             if cur > pedal_in_50 and cur <= pedal_in_75:
                 volume = (pedal_in_zero_base / pedal_range) * .5
-                print('my pydub db = {}'.format(int((pedal_in_zero_base / pedal_range) *45)))                #soundchange(runsound)
+                print('my pydub db = {}'.format(int((pedal_in_zero_base / pedal_range) *45)))                
+                #soundchange(runsound)
 
             if cur > pedal_in_75:
                 volume = (pedal_in_zero_base / pedal_range) + .05
@@ -164,11 +165,11 @@ if __name__ == '__main__':
 
             if cur > pedal_in_50 and cur <= pedal_in_75:
                 volume = (1 - (pedal_in_zero_base / pedal_range)) * .5
-                soundchange(runsound)
+                # soundchange(runsound)
 
             if cur > pedal_in_75:
                 volume = ((1 - (pedal_in_zero_base / pedal_range)) * .25) + .05
-                soundchange(runsound)
+                # soundchange(runsound)
 
             # Playing the track
             mixer.unpause()
