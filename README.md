@@ -137,6 +137,10 @@ Pedal: Top and bottom of wooden foot pedal are pressure fit only. To assemble, a
 -   if script stops and there is a red error message in terminal window on the bottom of the Thonny interface, press red stop button then press play button again.
 -   if that doesn’t work, press stop, then close the Thonny program by clicking x in upper right corner of the application. Then restart Thonny and press play on program as described in previous slide.
 
+![Graphical user interface, text, application, email Description automatically generated](media/IMG_4240.jpeg)
+
+-   sometimes the display could be jostled, accidently clicking the keyboard or mouse and the Thonny IDE enters 'Heap Mode'.   The program will not run properly in this mode.  if you see the Heap View open, close it!
+
 ## ‘newfootsounds.py’ code (read only / for reference only) .
 
 ![](media/b0941f5952eb2b7506f0cfd7cd94705d.jpeg)
